@@ -8,15 +8,15 @@ Companion code to *Reliability-Based Calibration of Fatigue Load Factors for Ste
 
 ## Selected outputs
 
-**Growth-rate sensitivity** — reliability index β(t) under the calibrated load factor across the full range of growth rate scenarios.
+**Growth-rate sensitivity**: reliability index β(t) under the calibrated load factor across the full range of growth rate scenarios.
 
 ![Growth sensitivity](images/growth_sensitivity.png)
 
-**Calibration curve** — reliability index at the design horizon as a function of the load factor, with both targets marked.
+**Calibration curve**: reliability index at the design horizon as a function of the load factor, with both targets marked.
 
 ![Calibration curve](images/calibration_curve.png)
 
-**Stress range histogram** — one calendar year of simulated traffic, ~1.76M rainflow cycles.
+**Stress range histogram**: one calendar year of simulated traffic, results in around 1.76M rainflow cycles.
 
 ![Stress histogram](images/stress_histogram.png)
 
